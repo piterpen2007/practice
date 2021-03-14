@@ -1,3 +1,4 @@
+//Задание 2
 CREATE TABLE author (
   id integer PRIMARY KEY AUTO_INCREMENT,
   author_name text NOT NULL
